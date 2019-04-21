@@ -6,4 +6,4 @@
 4. add the .bat and .py files in a folder already listed in PATH
 
 #### How to use
-> gitAll [reponame] [privacy (defaults to False)]
+> gitNew [reponame] [privacy (defaults to False)]
