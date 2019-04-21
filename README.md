@@ -10,7 +10,9 @@
 
 #### How to use
 > FROM CMD : gitNew [reponame] [privacy (defaults to False)]
-> FROM GIT : gitAll.sh OR gitAll (after the proper alias have been set)
+
+> FROM GIT : gitAll.sh 
+>>OR gitAll (after the proper alias have been set)
 
 
 ### BONUS
@@ -19,9 +21,9 @@
 
 
 #### Add Notepad, Sublime under an environment variables path
-ONE_OFF  : setx envVars "C:\Program Files\Notepad++;C:\Program Files\Sublime Text 3"
-ADDITION : setx envVars "%envVars%;C:\Users\takis\AppData\Local\atom"
-CHECK    : echo %envVars%
+* ONE_OFF  : setx envVars "C:\Program Files\Notepad++;C:\Program Files\Sublime Text 3"
+* ADDITION : setx envVars "%envVars%;C:\Users\takis\AppData\Local\atom"
+* CHECK    : echo %envVars%
 
 
 #### Set alias for the GitBash
