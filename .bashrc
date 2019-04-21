@@ -1,0 +1,5 @@
+alias npp='notepad++'
+alias sub='sublime_text'
+alias gitNew='gitNew.sh'
+alias gitAll='gitAll.sh'
+alias gitLoc='gitLoc.sh'
