@@ -36,3 +36,7 @@
 * alias gitLoc='gitLoc.sh'
 3. once set either reponen GitBash or source .bashrc
 
+
+### TODO
+1. Add alias for CMD (similar to bashrc ones)
+
