@@ -39,4 +39,4 @@
 
 ### TODO
 1. Add alias for CMD (similar to bashrc ones)
-
+2. Fixes gitNew.sh (reverse \ to /)
